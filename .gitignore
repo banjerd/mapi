@@ -1,0 +1,6 @@
+github.com/
+pkg/
+*.dump
+bin/
+golang.org/
+gopkg.in/
